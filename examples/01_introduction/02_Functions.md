@@ -22,8 +22,8 @@ fun main() {
     printMessageWithPrefix("Hello", "Log")                              // 6
     printMessageWithPrefix("Hello")                                     // 7
     printMessageWithPrefix(prefix = "Log", message = "Hello")           // 8
-    println(sum(1, 2))                                                  // 9
-    println(multiply(2, 4))                                             // 10
+    println(sum(5, 6))                                                  // 9
+    println(multiply(10, 25))                                             // 10
 }
 ```
 
